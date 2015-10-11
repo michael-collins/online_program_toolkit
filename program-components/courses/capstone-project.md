@@ -13,4 +13,4 @@ A capstone project in the DMD program must meet the following criteria:
 
 **Incubator Courses: (Mid and Capstone Courses):**
 
-Provide structural support for development of  capstone projects.
+Provide structural support for development and production of capstone projects.
