@@ -3,3 +3,5 @@ The purpose of a program hub is to provide students with a central access point 
 
 ##Features:
 ...
+
+Something akin to: [UGA Financial Planning Program](https://programs.online.uga.edu/fp/index.html)
