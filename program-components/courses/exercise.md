@@ -1,9 +1,8 @@
 
 #Exercise Name
 
-##Exercise Details
-###Description
-###Learning Outcomes
+##Description
+##Learning Outcomes
 ##Learning Resources
 
 **Online Tutorials**
