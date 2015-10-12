@@ -6,6 +6,8 @@ A student is required to complete the capstone project during the last two semes
 
 **Requirements:**
 
+```
+
 A capstone project in the DMD program must meet the following criteria:
 
 1. Demonstrate thoughtful inquiry into research topic, highlighing methodologies, tools, and impact.
@@ -13,10 +15,9 @@ A capstone project in the DMD program must meet the following criteria:
 3. Interdisciplinary team component can include:
 
    a. work produced by a group of two or more students.
-  
    b. work informed by a consultant whose research and practice is in a tangental discipline.
 
-
+```
 **Incubator Courses: (Mid and Capstone Courses):**
 
 Provide structural support for development and production of capstone projects.
