@@ -6,9 +6,9 @@ A student is required to complete the capstone project during the last two semes
 
 **Requirements:**
 
-```
-
 A capstone project in the DMD program must meet the following criteria:
+
+```
 
 1. Demonstrate thoughtful inquiry into research topic, highlighing methodologies, tools, and impact.
 2. Produce a research statement.
