@@ -21,3 +21,44 @@ A capstone project in the DMD program must meet the following criteria:
 **Incubator Courses: (Mid and Capstone Courses):**
 
 Provide structural support for development and production of capstone projects.
+* * *
+Weeks: Concept Development
+
+* 1-3 weeks (presentation) they ned to know that others are trying
+
+* Ideation and Proposal (DD) 
+
+* Mindmapping, Brainstorming, Whiteboarding (association)
+
+* Target (industry) whats out there??
+
+* look at how to poistion a compelling thesis that targets aspirations
+
+* rough draft fleshed out..
+
+* research /bg 
+
+1 sentence max
+2. short abstract
+3. clear outcomes/goals
+
+Test run presentation: Professional practice - present yourself and your work…
+
+**Proposal:**
+
+1.	Students that can't speak well should pre-record materials so that they can convey their project.
+2.	Blog.
+3. Show enthusiasm
+
+
+Goal: Have them take ownershiop of the process and the proposal you are trying to accommodate or support. Be realistic and authentic/honest.
+Present
+
+**Mid-cap:**
+
+1. Finalize timeline proposal and contract
+2. Demonstrate feasibility with proofs: Make something
+
+**Capstone:**
+
+Making changes is ok but you must update or reference the initial contract
