@@ -15,7 +15,7 @@ PRGM 400 - Capstone
 ```
 ```
 
-Discipline AREA 1 - Coures available to program:
+Discipline AREA 1 - Courses available to program:
 DPLN-A1 101
 DPLN-A1 111
 DPLN-A1 201
@@ -28,7 +28,7 @@ DPLN-A1 411
 ```
 ```
 
-Discipline AREA 2 - Coures available to program:
+Discipline AREA 2 - Courses available to program:
 DPLN-A2 101
 DPLN-A2 111
 DPLN-A2 201
