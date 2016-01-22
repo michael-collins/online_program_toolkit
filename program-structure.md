@@ -6,7 +6,7 @@ If there is a need to adapt existing curriculum to build a program, instructiona
 
 ```
 
-**Curriculum Core:**
+**Curriculum Spine:**
 PRGM 100 - Program introduction and landscape survey
 PRGM 200 - Program seminar
 PRGM 300 - Mid-Capstone
@@ -16,9 +16,11 @@ PRGM 400 - Capstone
 ```
 
 Discipline AREA 1 - Courses available to program:
+Supporting courses: Historical, Contextual, Cultural
 DPLN-A1 101
-DPLN-A1 111
 DPLN-A1 201
+Additional Courses:
+DPLN-A1 111
 DPLN-A1 211
 DPLN-A1 301
 DPLN-A1 311
@@ -29,9 +31,11 @@ DPLN-A1 411
 ```
 
 Discipline AREA 2 - Courses available to program:
+Supporting courses: Historical, Contextual, Cultural
 DPLN-A2 101
-DPLN-A2 111
 DPLN-A2 201
+Additional Courses: Deep dive in field
+DPLN-A2 111
 DPLN-A2 211
 DPLN-A2 301
 DPLN-A2 311
@@ -43,9 +47,11 @@ DPLN-A2 411
 ```
 
 Discipline AREA 3 - Coures available to program:
+Supporting courses: Historical, Contextual, Cultural
 DPLN-A3 101
-DPLN-A3 111
 DPLN-A3 201
+Additional Courses: Deep dive in field
+DPLN-A3 111
 DPLN-A3 211
 DPLN-A3 301
 DPLN-A3 311
