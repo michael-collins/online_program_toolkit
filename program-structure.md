@@ -6,8 +6,7 @@ If there is a need to adapt existing curriculum to build a program, instructiona
 
 ```
 
-**Curriculum Spine:**
-
+Curriculum Spine Courses: Convergence courses designed to connect disperate languages and values
 PRGM 100 - Program introduction and landscape survey
 PRGM 200 - Program seminar
 PRGM 300 - Mid-Capstone
